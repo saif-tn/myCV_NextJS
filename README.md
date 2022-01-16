@@ -1,6 +1,6 @@
 # CV Saif
 
-**CV/Resume** personal website template built it using Next.js and Typescript.
+**My CV Next JS / Docker** 
 
 Please go and change the `data/data.tsx` file to fill the CV/Resume with your personal information Feel free to use it and customize it as much as you desire.
 
@@ -58,7 +58,5 @@ const Resume: IResume = {
 - [Typescript](https://www.typescriptlang.org/)
 
 
-## Other info
-For more information please visit https://nextjs.org/docs 
 
 
